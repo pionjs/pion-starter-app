@@ -2,7 +2,7 @@ import {
   html,
   component,
   useState,
-} from "https://unpkg.com/haunted/haunted.js";
+} from "https://unpkg.com/@pionjs/pion";
 import "./FullName.js";
 
 function App() {
